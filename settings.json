@@ -31,13 +31,13 @@
     },
 
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
+      "enabled": true,
+      "repeat": true,
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player",
-        "Subscibe To Tyrox!",
+        "/register asdfghj asdfghj",
+        "/login asdfghj",
         "I Like to Play Minecraft!"
       ]
     },

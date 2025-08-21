@@ -1,15 +1,14 @@
 {
   "bot-account": {
-    "username": "welcomtoserver", 
+    "username": "welcomtoserver",
     "password": "",
     "type": "offline"
   },
 
   "server": {
     "ip": "WetherXSMP.aternos.me",
- 
-    "port": 27055,   
-    "version": "1.12.1"   
+    "port": 27055,
+    "version": "1.12.1"
   },
 
   "position": {
@@ -21,8 +20,8 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": ""
+      "enabled": true,
+      "password": "asdfghj"
     },
 
     "anti-afk": {
@@ -34,7 +33,6 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 5,
-
       "messages": [
         "/register asdfghj asdfghj",
         "/login asdfghj",

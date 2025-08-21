@@ -1,13 +1,14 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "welcomtoserver", 
     "password": "",
     "type": "offline"
   },
 
   "server": {
-    "ip": "Tyrox_x.aternos.me", 
-    "port": 48211,   
+    "ip": "WetherXSMP.aternos.me
+", 
+    "port": 27055,   
     "version": "1.12.1"   
   },
 

@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "WetherXSR.aternos.me:27055",
+    "ip": "WetherXSR.aternos.me",
     "port": 27055,
     "version": "1.12.1"
   },

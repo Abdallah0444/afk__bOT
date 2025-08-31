@@ -2,7 +2,7 @@
   "bot-account": {
     "username": "welcomtoserver",
     "password": "",
-    "type": "offline"
+    "type": "onlline"
   },
 
   "server": {
